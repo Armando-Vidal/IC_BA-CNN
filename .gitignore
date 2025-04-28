@@ -1,3 +1,7 @@
+# Models
+CIFAR10_models/
+code/CIFAR10_models.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
